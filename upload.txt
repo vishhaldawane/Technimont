@@ -1,1 +1,3 @@
 https://juzerhakimji.in/uploading-files-from-angular-to-dotnet-core-webapi-and-sql-server/
+
+https://www.codemag.com/article/1901061/Upload-Small-Files-to-a-Web-API-Using-Angular#:~:text=Use%20the%20Angular%20CLI%20command,created%20in%20this%20new%20folder.&text=Open%20the%20newly%20generated%20file%2Dto%2Dupload.
