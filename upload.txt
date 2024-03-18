@@ -1,0 +1,1 @@
+https://juzerhakimji.in/uploading-files-from-angular-to-dotnet-core-webapi-and-sql-server/
